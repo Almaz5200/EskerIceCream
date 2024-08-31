@@ -1,10 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "NewHorizonsConfig.dll",
-	"author": "[your name]",
-	"name": "[your readable mod name]",
-	"uniqueName": "[your name].[your unique mod ID]",
-	"version": "0.0.0",
+	"author": "almaz5200",
+	"name": "EskerIceCream",
+	"uniqueName": "almaz5200.EskerIceCream",
+	"version": "0.1.0",
 	"owmlVersion": "2.13.0",
-	"dependencies": [ "xen.NewHorizons" ]
+	"dependencies": [
+		"xen.NewHorizons"
+	]
 }
