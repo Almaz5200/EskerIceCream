@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberMoon",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"MapMarker": {
+		"minDisplayDistanceOverride": -1.0,
+		"maxDisplayDistanceOverride": -1.0
+	},
+	"Orbit": {
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/icecreambox_esker",
+				"path": "Assets/Prefabs/IceCreamBox_Esker.prefab",
+				"scale": 0.299999923,
+				"rotation": {
+					"x": 351.1224,
+					"y": 300.537018,
+					"z": 65.29743
+				},
+				"position": {
+					"x": -32.2659,
+					"y": 32.7827148,
+					"z": -58.7934647
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShockEffect": {}
+}
